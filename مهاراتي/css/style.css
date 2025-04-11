@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../image/Mahraty.jfif);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.51);
+    color: white;
+    padding-top: 240px;
+}
+hr{
+    width: 50px;
+    border: 1px solid #d2691e;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
